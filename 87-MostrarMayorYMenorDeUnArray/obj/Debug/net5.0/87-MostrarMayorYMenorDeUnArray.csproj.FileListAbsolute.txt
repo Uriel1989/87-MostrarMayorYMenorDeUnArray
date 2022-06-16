@@ -1,0 +1,15 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\bin\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\bin\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\bin\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\bin\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\bin\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\bin\Debug\net5.0\ref\87-MostrarMayorYMenorDeUnArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\bin\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\obj\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\obj\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\obj\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\obj\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\obj\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\obj\Debug\net5.0\ref\87-MostrarMayorYMenorDeUnArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\obj\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\87-MostrarMayorYMenorDeUnArray\obj\Debug\net5.0\87-MostrarMayorYMenorDeUnArray.genruntimeconfig.cache
